@@ -14,6 +14,7 @@
 		E277AF0223CB3266006CEEB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E277AF0123CB3266006CEEB1 /* Assets.xcassets */; };
 		E277AF0523CB3266006CEEB1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E277AF0423CB3266006CEEB1 /* Preview Assets.xcassets */; };
 		E277AF0823CB3266006CEEB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E277AF0623CB3266006CEEB1 /* LaunchScreen.storyboard */; };
+		E277AF1023CB6B89006CEEB1 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E277AF0F23CB6B89006CEEB1 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E277AF0423CB3266006CEEB1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E277AF0723CB3266006CEEB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E277AF0923CB3266006CEEB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E277AF0F23CB6B89006CEEB1 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E277AF0923CB3266006CEEB1 /* Info.plist */,
 				E277AEFC23CB3265006CEEB1 /* InstaFilter.xcdatamodeld */,
 				E277AF0323CB3266006CEEB1 /* Preview Content */,
+				E277AF0F23CB6B89006CEEB1 /* ImagePicker.swift */,
 			);
 			path = InstaFilter;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				E277AEF923CB3265006CEEB1 /* AppDelegate.swift in Sources */,
 				E277AEFE23CB3265006CEEB1 /* InstaFilter.xcdatamodeld in Sources */,
+				E277AF1023CB6B89006CEEB1 /* ImagePicker.swift in Sources */,
 				E277AF0023CB3265006CEEB1 /* ContentView.swift in Sources */,
 				E277AEFB23CB3265006CEEB1 /* SceneDelegate.swift in Sources */,
 			);
