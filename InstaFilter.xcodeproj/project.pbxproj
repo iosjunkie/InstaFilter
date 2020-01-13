@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E24DA0CA23CC45EF004AC217 /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24DA0C923CC45EF004AC217 /* ImageSaver.swift */; };
 		E277AEF923CB3265006CEEB1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E277AEF823CB3265006CEEB1 /* AppDelegate.swift */; };
 		E277AEFB23CB3265006CEEB1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E277AEFA23CB3265006CEEB1 /* SceneDelegate.swift */; };
 		E277AEFE23CB3265006CEEB1 /* InstaFilter.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E277AEFC23CB3265006CEEB1 /* InstaFilter.xcdatamodeld */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E24DA0C923CC45EF004AC217 /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
 		E277AEF523CB3265006CEEB1 /* InstaFilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaFilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E277AEF823CB3265006CEEB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E277AEFA23CB3265006CEEB1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				E277AEFC23CB3265006CEEB1 /* InstaFilter.xcdatamodeld */,
 				E277AF0323CB3266006CEEB1 /* Preview Content */,
 				E277AF0F23CB6B89006CEEB1 /* ImagePicker.swift */,
+				E24DA0C923CC45EF004AC217 /* ImageSaver.swift */,
 			);
 			path = InstaFilter;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E277AEF923CB3265006CEEB1 /* AppDelegate.swift in Sources */,
+				E24DA0CA23CC45EF004AC217 /* ImageSaver.swift in Sources */,
 				E277AEFE23CB3265006CEEB1 /* InstaFilter.xcdatamodeld in Sources */,
 				E277AF1023CB6B89006CEEB1 /* ImagePicker.swift in Sources */,
 				E277AF0023CB3265006CEEB1 /* ContentView.swift in Sources */,
